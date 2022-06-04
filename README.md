@@ -9,6 +9,8 @@
 
 [Download One Piece](https://drive.google.com/file/d/1sVP09rxeVV0JzIz5X8sMJyRXNHCgm_aw/view?usp=sharing)
 
+Warning this is a large zip file ~4GB
+
 ## Text extraction
 
 Text is extracted to \<filename>.txt
