@@ -13,6 +13,12 @@ Warning this is a large zip file ~4GB
 
 ## Text extraction
 
+Remember to set your tesseract path in `main.py` line 9
+
+For example:
+
+`pytesseract.pytesseract.tesseract_cmd = '/usr/local/Cellar/tesseract/5.1.0/bin/tesseract'`
+
 Text is extracted to \<filename>.txt
 
 For example img2.png will output to img2.txt
